@@ -10,7 +10,7 @@ class Solution {
 
 public static void main(String[] args) {
    
-   int t=22;
+   int t=7;
 if(isPrime(t)) System.out.println("yes");
 else System.out.println("no");
 }
